@@ -1,0 +1,12 @@
+programa
+{
+	
+	funcao inicio()
+	{
+		cadeia nome	
+		leia(nome)
+		escreva(nome)
+	}
+}
+
+Ao executar esse código, o comando "leia" fez com que eu pudesse escrever uma palavra, e essa palavra se torna o novo valor da variável "nome", que é escrita de novo mais tarde.
