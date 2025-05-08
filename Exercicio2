@@ -1,0 +1,11 @@
+programa
+{
+	
+	funcao inicio()
+	{
+		escreva("Olá Mundo")
+		escreva("Como vai")
+	}
+}
+
+Esse código mostrou, na tela, a escrita "Olá, MundoComo vai".
