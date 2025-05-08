@@ -1,0 +1,11 @@
+programa
+{
+	
+	funcao inicio()
+	{
+		escreva("Olá Mundo ", "\n")
+		escreva("Como vai")
+	}
+}
+
+Nesse código, comparado ao do exercício anterior, as escritas apareceram em linhas diferentes
